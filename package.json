@@ -28,7 +28,7 @@
 	"homepage": "https://github.com/benhurott/react-native-masked-text#readme",
 	"dependencies": {
 		"moment": "^2.19.1",
-		"tinymask": "^1.0.2"
+		"tinymask": "https://github.com/FoxShaunR/tinymask-truncate-fix.git"
 	},
 	"devDependencies": {
 		"babel-cli": "^6.26.0",
